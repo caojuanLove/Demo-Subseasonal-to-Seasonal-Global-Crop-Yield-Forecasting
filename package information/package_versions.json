@@ -1,0 +1,12 @@
+{
+    "python": "3.11.9 | packaged by Anaconda, Inc. | (main, Apr 19 2024, 16:40:41) [MSC v.1916 64 bit (AMD64)]",
+    "numpy": "1.25.2",
+    "pandas": "2.2.2",
+    "sklearn": "1.4.2",
+    "matplotlib": "3.9.1",
+    "tensorflow": "2.16.1",
+    "scikit-learn": "1.4.2",
+    "optuna": "3.6.1",
+    "scikeras": "0.13.0",
+    "json": "2.0.9"
+}
